@@ -15,6 +15,7 @@
     "dev:db-pull": "dotenv -e .env.development.local prisma db pull",
     "dev:db-generate-client": "dotenv -e .env.development.local prisma generate",
     "prod:migrate": "dotenv -e .env.production.local prisma migrate deploy",
+    "prod:migrate-from-old-riitag": "dotenv -e .env.production.local node migrate.mjs",
     "prod:build": "next build",
     "prod:start": "next start",
     "global:check-dependencies": "npm-check --skip-unused"

@@ -37,3 +37,6 @@ yarn-error.log*
 .idea
 .vscode/Contributor.code-snippets
 .vscode/settings.json
+
+# Data
+*.db
