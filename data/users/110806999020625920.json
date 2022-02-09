@@ -1,0 +1,27 @@
+{
+    "name": "Brawl",
+    "id": "110806999020625920",
+    "avatar": "46382e2208c0af94cf05b2fa9e0b1fcf",
+    "games": [
+        "wii-RSBJ01",
+        ""
+    ],
+    "lastplayed": [
+        "wii-RSBJ01",
+        1642935305
+    ],
+    "coins": 1,
+    "friend_code": "0000 0000 0000 0000",
+    "region": "rc24",
+    "overlay": "overlay1.json",
+    "bg": "img/1200x450/riiconnect241.png",
+    "sort": "",
+    "font": "default",
+    "coin": "default",
+    "covertype": "cover3D",
+    "coverregion": "EN",
+    "useavatar": "true",
+    "usemii": "true",
+    "mii_data": "000d165d65747e84afb2c4cecdcfd2e2e7eff506080f1117262930414e555a0d10171c0f13070a09202d35404b4f4a,studo060240030803032c040f0308050409020f010a070005010804000a0600065c04000214031304081006030c04030c",
+    "mii_number": "1054-1872-5892"
+}
