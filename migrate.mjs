@@ -38,7 +38,7 @@ for (const result of await Promise.all(promiseResults)) {
     miiData = user.mii_data.split(",")[0];
   }
 
-  // TODO: db-dateien
+  // TODO: migrate stuff from db files (coins are duplicated in JSON and db...?)
   // TODO: Playlog
   await prisma.user.create({
     data: {
